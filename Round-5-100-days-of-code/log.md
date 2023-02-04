@@ -2,6 +2,15 @@
 
 # Daily Log
 
+## R5D4 Round 5 Day 4 February 4, 2023
+
+**Today's Progress**:
+Codecademy Node events module (finished)
+Codecademy Mocha JS testing (started)
+New React Documentation (beta) tutorials
+
+**Thoughts** Concurrently working on JS deeper dive, NodeJS, React
+
 ## R5D3 Round 5 Day 3 February 3, 2023
 
 **Today's Progress**:
