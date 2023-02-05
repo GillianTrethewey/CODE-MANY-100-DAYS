@@ -2,6 +2,15 @@
 
 # Daily Log
 
+## R5D5 Round 5 Day 5 February 5, 2023
+
+**Today's Progress**:
+MayanWolfe on Twitch Fullstack MongoDB web app stream (3 hours)
+Frontend Masters Algorithms Big O (continue)
+Mocha tutorial (continue)
+
+**Thoughts** Have to rewatch MongoDB tutorial on connecting database.
+
 ## R5D4 Round 5 Day 4 February 4, 2023
 
 **Today's Progress**:
