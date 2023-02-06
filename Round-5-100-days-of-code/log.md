@@ -2,6 +2,13 @@
 
 # Daily Log
 
+## R5D6 Round 5 Day 6 February 6, 2023
+
+**Today's Progress**:
+Frontend Masters Algorithms Big O (continue)
+Push notes on Traversy Media OOP Crash Course
+Mocha tutorial (continue)
+
 ## R5D5 Round 5 Day 5 February 5, 2023
 
 **Today's Progress**:
