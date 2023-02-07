@@ -2,6 +2,13 @@
 
 # Daily Log
 
+## R5D7 Round 5 Day 7 February 7, 2023
+
+**Today's Progress**:
+Frontend Masters Algorithms Big O (continue)
+ClientSide algorithms (started)
+Mocha TDD
+
 ## R5D6 Round 5 Day 6 February 6, 2023
 
 **Today's Progress**:
