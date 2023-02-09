@@ -2,6 +2,13 @@
 
 # Daily Log
 
+## R5D9 Round 5 Day 9 February 9, 2023
+
+**Today's Progress**:
+Frontend Masters Algorithms Big O (continue)
+Kent C. Dodd's React Video Course (started)
+Mocha TDD (continue)
+
 ## R5D8 Round 5 Day 8 February 8, 2023
 
 **Today's Progress**:
