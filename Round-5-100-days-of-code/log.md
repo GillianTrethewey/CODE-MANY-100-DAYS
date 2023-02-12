@@ -2,6 +2,13 @@
 
 # Daily Log
 
+## R5D12 Round 5 Day 12 February 12, 2023
+
+**Today's Progress**:
+Mocha TDD (finished)
+Algorithms Review
+MayanWolfe Twitch Video Stream (3 hours)
+
 ## R5D11 Round 5 Day 11 February 11, 2023
 
 **Today's Progress**:
