@@ -2,6 +2,12 @@
 
 # Daily Log
 
+## R5D13 Round 5 Day 13 February 13, 2023
+
+**Today's Progress**:
+Frontend Masters Algorithm Big O (continue)
+Kent C. Dodd's React Video Course (continue)
+
 ## R5D12 Round 5 Day 12 February 12, 2023
 
 **Today's Progress**:
