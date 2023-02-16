@@ -2,6 +2,12 @@
 
 # Daily Log
 
+## R5D15 Round 5 Day 15 February 15, 2023
+
+**Today's Progress**:
+Frontend Masters Algorithm Big O (continue)
+Data Structures: Linked Lists
+
 ## R5D14 Round 5 Day 14 February 14, 2023
 
 **Today's Progress**:
