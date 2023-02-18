@@ -2,6 +2,14 @@
 
 # Daily Log
 
+## R5D17 Round 5 Day 17 February 17, 2023
+
+**Today's Progress**:
+Frontend Masters Algorithm Big O (finished))
+Data Structures: Linked Lists (continue)
+Kent C. Dodd's React Video Course (continue)
+MIT Algos Lesson 1 Video
+
 ## R5D16 Round 5 Day 16 February 16, 2023
 
 **Today's Progress**:
