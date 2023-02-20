@@ -2,6 +2,12 @@
 
 # Daily Log
 
+## R5D19 Round 5 Day 19 February 19, 2023
+
+**Today's Progress**:
+Data Structures: Linked Lists (continue)
+Kent C. Dodd's React Video Course (continue)
+
 ## R5D18 Round 5 Day 18 February 18, 2023
 
 **Today's Progress**:
