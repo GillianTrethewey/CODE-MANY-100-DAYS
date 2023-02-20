@@ -2,6 +2,13 @@
 
 # Daily Log
 
+## R5D20 Round 5 Day 20 February 20, 2023
+
+**Today's Progress**:
+Data Structures: Linked Lists (continue)
+Kent C. Dodd's React Video Course (continue)
+Tailwind CSS Net Ninja Video Course (started)
+
 ## R5D19 Round 5 Day 19 February 19, 2023
 
 **Today's Progress**:
