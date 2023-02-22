@@ -2,6 +2,15 @@
 
 # Daily Log
 
+## R5D22 Round 5 Day 22 February 22, 2023
+
+**Today's Progress**:
+Data Structures: Doubly Linked Lists JS (continue)
+Brad Traversy's React Video Course (continue)
+Kevin Powell's 21 Day CSS Video Course - Day 2,3 + ems/rems + ::before, ::after
+WesBos's 30 Day JS Video Course - Day 2
+ANKI + Algo reviews
+
 ## R5D21 Round 5 Day 21 February 21, 2023
 
 **Today's Progress**:
