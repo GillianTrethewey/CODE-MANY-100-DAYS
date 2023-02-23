@@ -2,6 +2,13 @@
 
 # Daily Log
 
+## R5D23 Round 5 Day 23 February 23, 2023
+
+**Today's Progress**:
+Data Structures: Doubly Linked Lists JS (continue)
+CSX from CodeSmith JS (started)
+ANKI + Algo reviews
+
 ## R5D22 Round 5 Day 22 February 22, 2023
 
 **Today's Progress**:
