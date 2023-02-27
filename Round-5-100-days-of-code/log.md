@@ -2,6 +2,12 @@
 
 # Daily Log
 
+## R5D26 Round 5 Day 26 February 26, 2023
+
+**Today's Progress**:
+CSX from CodeSmith JS (continue)
+ANKI + Algo reviews
+
 ## R5D25 Round 5 Day 25 February 25, 2023
 
 **Today's Progress**:
