@@ -2,6 +2,11 @@
 
 # Daily Log
 
+## R5D27 Round 5 Day 27 February 27, 2023
+
+**Today's Progress**:
+ANKI + Algo reviews
+
 ## R5D26 Round 5 Day 26 February 26, 2023
 
 **Today's Progress**:
