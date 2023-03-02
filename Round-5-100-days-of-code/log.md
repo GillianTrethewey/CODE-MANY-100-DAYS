@@ -2,6 +2,23 @@
 
 # Daily Log
 
+## R5D30 Round 5 Day 30 March 2, 2023
+
+**Today's Progress**:
+More Linked Lists
+Kevin Powell CSS (continue)
+JS 30 review day 1
+Traversy React video (continue)
+ANKI + Algo reviews
+
+## R5D29 Round 5 Day 29 March 1, 2023
+
+**Today's Progress**:
+Linked Lists deep dive to learn this!
+Kevin Powell CSS challenge for day 1
+Traversy video on Linked Lists
+ANKI + Algo reviews
+
 ## R5D28 Round 5 Day 28 February 28, 2023
 
 **Today's Progress**:
