@@ -2,6 +2,14 @@
 
 # Daily Log
 
+## R5D31 Round 5 Day 31 March 3, 2023
+
+**Today's Progress**:
+Kevin Powell CSS (continue)
+JS 30 
+Traversy React video (continue)
+ANKI + Algo reviews
+
 ## R5D30 Round 5 Day 30 March 2, 2023
 
 **Today's Progress**:
