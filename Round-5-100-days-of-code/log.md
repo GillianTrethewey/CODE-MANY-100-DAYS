@@ -2,6 +2,13 @@
 
 # Daily Log
 
+## R5D32 Round 5 Day 32 March 4, 2023
+
+**Today's Progress**:
+Ruby
+Practiced Recursion + Closure on existing algos
+ANKI + Algo reviews
+
 ## R5D31 Round 5 Day 31 March 3, 2023
 
 **Today's Progress**:
