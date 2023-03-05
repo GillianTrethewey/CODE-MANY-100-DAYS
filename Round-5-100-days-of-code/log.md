@@ -2,6 +2,14 @@
 
 # Daily Log
 
+## R5D33 Round 5 Day 33 March 5, 2023
+
+**Today's Progress**:
+Ruby
+CS50
+MIT Data Structures and Algorithms
+ANKI + Algo reviews
+
 ## R5D32 Round 5 Day 32 March 4, 2023
 
 **Today's Progress**:
