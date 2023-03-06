@@ -2,6 +2,16 @@
 
 # Daily Log
 
+## R5D34 Round 5 Day 34 March 6, 2023
+
+**Today's Progress**:
+Ruby
+Leetcode
+Brad Traversy React
+Kevin Powell CSS
+Doubly Linked Lists Algos
+ANKI + Algo reviews
+
 ## R5D33 Round 5 Day 33 March 5, 2023
 
 **Today's Progress**:
