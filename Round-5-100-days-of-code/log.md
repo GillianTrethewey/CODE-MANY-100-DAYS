@@ -2,6 +2,14 @@
 
 # Daily Log
 
+## R5D35 Round 5 Day 35 March 7 2023
+
+**Today's Progress**:
+Ruby
+Leetcode
+BBC website layout using grid and flex (responsive)
+ANKI + Algo reviews
+
 ## R5D34 Round 5 Day 34 March 6, 2023
 
 **Today's Progress**:
