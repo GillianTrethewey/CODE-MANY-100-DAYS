@@ -2,6 +2,16 @@
 
 # Daily Log
 
+## R5D36 Round 5 Day 36 March 8 2023
+
+**Today's Progress**:
+Ruby
+Leetcode
+Doubly Linked Lists algo
+Functions Video - Execution Context
+CS50 lecture 0
+ANKI + Algo reviews
+
 ## R5D35 Round 5 Day 35 March 7 2023
 
 **Today's Progress**:
