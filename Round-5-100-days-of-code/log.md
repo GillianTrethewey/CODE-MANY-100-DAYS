@@ -2,6 +2,14 @@
 
 # Daily Log
 
+## R5D37 Round 5 Day 37 March 9 2023
+
+**Today's Progress**:
+Registered for Python course with Eastern University
+Ruby
+CSX Video on Execution Context in JavaScript
+ANKI + Algo reviews
+
 ## R5D36 Round 5 Day 36 March 8 2023
 
 **Today's Progress**:
