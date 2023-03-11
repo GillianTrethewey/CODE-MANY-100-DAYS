@@ -2,6 +2,15 @@
 
 # Daily Log
 
+## R5D38 Round 5 Day 38 March 10 2023
+
+**Today's Progress**:
+Python course Eastern University
+Ruby
+Callbacks
+Trees Data Structures (started)
+ANKI + Algo reviews
+
 ## R5D37 Round 5 Day 37 March 9 2023
 
 **Today's Progress**:
