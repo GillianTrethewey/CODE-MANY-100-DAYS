@@ -1,6 +1,16 @@
 # 100 Days Of Code ROUND 5 - Log
 
-# Daily Log
+## Daily Log
+
+## R5D40 Round 5 Day 40 March 12 2023
+
+**Today's Progress**:
+Python course Eastern University
+Ruby
+Kevin Powell CSS
+LeetCode DS
+AWS course
+ANKI + Algo reviews
 
 ## R5D39 Round 5 Day 39 March 11 2023
 
