@@ -2,6 +2,16 @@
 
 ## Daily Log
 
+## R5D43 Round 5 Day 43 March 15 2023
+
+**Today's Progress**:
+Python course Eastern University
+Ruby
+Kevin Powell CSS day 19
+LeetCode DS
+Trees video
+ANKI + Algo reviews
+
 ## R5D42 Round 5 Day 42 March 14 2023
 
 **Today's Progress**:
