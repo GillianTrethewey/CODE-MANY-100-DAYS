@@ -2,6 +2,15 @@
 
 ## Daily Log
 
+## R5D44 Round 5 Day 44 March 16 2023
+
+**Today's Progress**:
+Python course Eastern University
+Ruby
+LeetCode DS
+CSX CodeSmith Closure video and exercises
+ANKI + Algo reviews
+
 ## R5D43 Round 5 Day 43 March 15 2023
 
 **Today's Progress**:
