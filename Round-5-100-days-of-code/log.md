@@ -2,6 +2,15 @@
 
 ## Daily Log
 
+## R5D46 Round 5 Day 46 March 18 2023
+
+**Today's Progress**:
+Python course Eastern University
+LeetCode Daily
+Queues
+CS50 video
+ANKI + Algo reviews
+
 ## R5D45 Round 5 Day 45 March 17 2023
 
 **Today's Progress**:
