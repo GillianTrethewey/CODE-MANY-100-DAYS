@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R5D49 Round 5 Day 49 March 21 2023
+
+**Today's Progress**:
+Python course Eastern University
+LeetCode Daily
+Khan Academy Mockup for practice
+ANKI + Algo reviews
+
 ## R5D48 Round 5 Day 48 March 20 2023
 
 **Today's Progress**:
