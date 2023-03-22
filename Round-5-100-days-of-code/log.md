@@ -2,6 +2,15 @@
 
 ## Daily Log
 
+## R5D50 Round 5 Day 50 March 22 2023
+
+**Today's Progress**:
+Python course Eastern University
+LeetCode Daily
+JS30 lesson 1
+Python course CC
+ANKI + Algo reviews
+
 ## R5D49 Round 5 Day 49 March 21 2023
 
 **Today's Progress**:
@@ -16,7 +25,7 @@ ANKI + Algo reviews
 Python course Eastern University
 LeetCode Daily
 Traversy React course
-JS30 1/2
+JS30 
 ANKI + Algo reviews
 
 ## R5D47 Round 5 Day 47 March 19 2023
