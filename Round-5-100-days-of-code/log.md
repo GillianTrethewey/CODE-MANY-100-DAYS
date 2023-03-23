@@ -2,6 +2,16 @@
 
 ## Daily Log
 
+## R5D51 Round 5 Day 51 March 23 2023
+
+**Today's Progress**:
+Python course Eastern University
+LeetCode Daily
+JS30 lesson 2/3/4
+Python course CC
+Techcrunch Mockup
+ANKI + Algo reviews
+
 ## R5D50 Round 5 Day 50 March 22 2023
 
 **Today's Progress**:
