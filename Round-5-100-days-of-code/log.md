@@ -2,6 +2,15 @@
 
 ## Daily Log
 
+## R5D53 Round 5 Day 53 March 25 2023
+
+**Today's Progress**:
+Python course Eastern University
+Ruby
+Stacks
+Python course CC
+ANKI + Algo reviews
+
 ## R5D52 Round 5 Day 52 March 24 2023
 
 **Today's Progress**:
