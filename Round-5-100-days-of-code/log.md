@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R5D57 Round 5 Day 57 March 29 2023
+
+**Today's Progress**:
+Python course Eastern University
+Stacks
+Traversy React
+ANKI + Algo reviews
+
 ## R5D56 Round 5 Day 56 March 28 2023
 
 **Today's Progress**:
