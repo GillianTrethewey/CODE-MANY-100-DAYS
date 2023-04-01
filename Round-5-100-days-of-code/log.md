@@ -2,6 +2,16 @@
 
 ## Daily Log
 
+## R5D60 Round 5 Day 60 April 1 2023
+
+**Today's Progress**:
+Python course Eastern University
+LinkedList
+Traversy React
+JS30
+Day 3 Algo Challenge
+ANKI + Algo reviews
+
 ## R5D59 Round 5 Day 59 March 31 2023
 
 **Today's Progress**:
