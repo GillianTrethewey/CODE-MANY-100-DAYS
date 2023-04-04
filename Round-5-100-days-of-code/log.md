@@ -5,7 +5,7 @@
 ## R5D62 Round 5 Day 62 April 3 2023
 
 **Today's Progress**:
-Python course Eastern University
+Python course Eastern University - Exam 3/5
 SOLID - S principle + general design principles
 JS30 (2)
 Day 4 Algo Challenge
