@@ -2,13 +2,22 @@
 
 ## Daily Log
 
+## R5D63 Round 5 Day 63 April 4 2023
+
+**Today's Progress**:
+Python course Eastern University
+SOLID - O + L principle
+JS30 (2)
+Day 6 Algo Challenge
+ANKI + Algo reviews
+
 ## R5D62 Round 5 Day 62 April 3 2023
 
 **Today's Progress**:
 Python course Eastern University - Exam 3/5
 SOLID - S principle + general design principles
 JS30 (2)
-Day 4 Algo Challenge
+Day 5 Algo Challenge
 ANKI + Algo reviews
 
 ## R5D61 Round 5 Day 61 April 2 2023
