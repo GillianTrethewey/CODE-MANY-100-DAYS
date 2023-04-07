@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R5D66 Round 5 Day 66 April 7 2023
+
+**Today's Progress**:
+DONE Python Course from Eastern University
+JS30 (2)
+Day 9 Algo Challenge
+ANKI + Algo reviews
+
 ## R5D65 Round 5 Day 65 April 6 2023
 
 **Today's Progress**:
