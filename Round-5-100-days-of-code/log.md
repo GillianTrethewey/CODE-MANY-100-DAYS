@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R5D67 Round 5 Day 67 April 8 2023
+
+**Today's Progress**:
+JS30 (2)
+Day 10 Algo Challenge
+ANKI + Algo reviews
+
 ## R5D66 Round 5 Day 66 April 7 2023
 
 **Today's Progress**:
