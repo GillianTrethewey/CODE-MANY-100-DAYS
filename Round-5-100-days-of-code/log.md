@@ -2,6 +2,12 @@
 
 ## Daily Log
 
+## R5D68 Round 5 Day 68 April 9 2023 Easter Sunday
+
+**Today's Progress**:
+Day 11 Algo Challenge
+ANKI + Algo reviews
+
 ## R5D67 Round 5 Day 67 April 8 2023
 
 **Today's Progress**:
