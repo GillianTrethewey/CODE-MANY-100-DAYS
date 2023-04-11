@@ -2,7 +2,14 @@
 
 ## Daily Log
 
-## R5D69 Round 5 Day 69 April 10 2023 Easter Sunday
+## R5D70 Round 5 Day 70 April 11 2023 
+
+**Today's Progress**:
+JS30
+Day 13 Algo Challenge
+ANKI + Algo reviews
+
+## R5D69 Round 5 Day 69 April 10 2023 
 
 **Today's Progress**:
 JS30
