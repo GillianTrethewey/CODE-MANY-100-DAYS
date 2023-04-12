@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R5D71 Round 5 Day 71 April 12 2023 
+
+**Today's Progress**:
+JS30
+Day 14 Algo Challenge
+ANKI + Algo reviews
+
 ## R5D70 Round 5 Day 70 April 11 2023 
 
 **Today's Progress**:
