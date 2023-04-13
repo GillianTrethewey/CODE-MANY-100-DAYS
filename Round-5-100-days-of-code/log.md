@@ -2,10 +2,19 @@
 
 ## Daily Log
 
+## R5D72 Round 5 Day 72 April 13 2023 
+
+**Today's Progress**:
+JS30
+Data Structures
+Day 15 Algo Challenge
+ANKI + Algo reviews
+
 ## R5D71 Round 5 Day 71 April 12 2023 
 
 **Today's Progress**:
 JS30
+Data Structures
 Day 14 Algo Challenge
 ANKI + Algo reviews
 
@@ -13,6 +22,7 @@ ANKI + Algo reviews
 
 **Today's Progress**:
 JS30
+Data Structures
 Day 13 Algo Challenge
 ANKI + Algo reviews
 
