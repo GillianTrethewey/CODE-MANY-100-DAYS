@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R5D73 Round 5 Day 73 April 14 2023 
+
+**Today's Progress**:
+Data Structures
+Day 16 Algo Challenge
+ANKI + Algo reviews
+Whiteboarding
+
 ## R5D72 Round 5 Day 72 April 13 2023 
 
 **Today's Progress**:
