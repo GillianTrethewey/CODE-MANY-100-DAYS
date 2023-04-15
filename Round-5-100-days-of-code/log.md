@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R5D74 Round 5 Day 74 April 15 2023 
+
+**Today's Progress**:
+Data Structures
+Day 17 Algo Challenge
+ANKI + Algo reviews
+React tutorial
+
 ## R5D73 Round 5 Day 73 April 14 2023 
 
 **Today's Progress**:
