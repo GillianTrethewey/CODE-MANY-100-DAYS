@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R5D76 Round 5 Day 76 April 17 2023 
+
+**Today's Progress**:
+Day 19 Algo Challenge
+ANKI + Algo reviews
+React Router
+
 ## R5D75 Round 5 Day 75 April 16 2023 
 
 **Today's Progress**:
