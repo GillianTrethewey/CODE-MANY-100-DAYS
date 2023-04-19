@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R5D78 Round 5 Day 78 April 19 2023 
+
+**Today's Progress**:
+Day 21 Algo Challenge
+ANKI + Algo reviews
+React Router
+Apple Website clone
+
 ## R5D77 Round 5 Day 77 April 18 2023 
 
 **Today's Progress**:
