@@ -2,7 +2,12 @@
 
 ## Daily Log
 
-## R5D79 Round 5 Day 79 April 20 2023 
+## R5D80 Round 5 Day 80 April 21 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+React Router
+Apple Website clone
 
 **Today's Progress**:
 Algo Challenge completed
