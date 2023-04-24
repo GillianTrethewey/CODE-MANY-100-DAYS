@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R5D88 Round 5 Day 88 April 24 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+React Router Pet Project
+Traversy React Task List
+Dr. Angela Yu Bootcamp (refresher)
+
 ## R5D82 Round 5 Day 82 April 23 2023 
 
 **Today's Progress**:
