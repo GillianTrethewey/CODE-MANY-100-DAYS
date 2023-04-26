@@ -2,6 +2,12 @@
 
 ## Daily Log
 
+## R5D89 Round 5 Day 89 April 25 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+Traversy React Task List Finished
+
 ## R5D88 Round 5 Day 88 April 24 2023 
 
 **Today's Progress**:
