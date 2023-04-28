@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R5D92 Round 5 Day 92 April 28 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+CSS Naming research BEMs, Modules, packages
+Jest
+Apple website clone with BEMs
+
 ## R5D91 Round 5 Day 91 April 27 2023 
 
 **Today's Progress**:
