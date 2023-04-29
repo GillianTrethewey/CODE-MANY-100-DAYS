@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R5D93 Round 5 Day 93 April 29 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+React Udemy Course
+Jest
+
 ## R5D92 Round 5 Day 92 April 28 2023 
 
 **Today's Progress**:
