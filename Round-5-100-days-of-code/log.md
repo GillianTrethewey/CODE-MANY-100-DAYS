@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R5D94 Round 5 Day 94 April 30 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+React Udemy Course
+Jest
+Recursion Exercises
+
 ## R5D93 Round 5 Day 93 April 29 2023 
 
 **Today's Progress**:
