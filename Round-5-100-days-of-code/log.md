@@ -2,6 +2,16 @@
 
 ## Daily Log
 
+## R5D95 Round 5 Day 95 May 1 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+Chingu Voyage 44 start
+GitHub Issues regarding GitFlow process
+MVP Epic with User Stories
+Research on similar game design like Candy Crush
+Team meeting (2 hours)
+
 ## R5D94 Round 5 Day 94 April 30 2023 
 
 **Today's Progress**:
