@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R5D96 Round 5 Day 96 May 2 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+Next.js learning for Chingu project
+Pair programming (4 hours)
+
 ## R5D95 Round 5 Day 95 May 1 2023 
 
 **Today's Progress**:
