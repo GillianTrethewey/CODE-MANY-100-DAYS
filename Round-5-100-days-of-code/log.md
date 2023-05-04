@@ -2,18 +2,26 @@
 
 ## Daily Log
 
+## R5D97 Round 5 Day 97 May 3 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+Vercel learning 
+Pair programming (2 hours)
+GitHub Issues
+
 ## R5D96 Round 5 Day 96 May 2 2023 
 
 **Today's Progress**:
 ANKI + Algo reviews
-Next.js learning for Chingu project
+Next.js learning 
 Pair programming (4 hours)
 
 ## R5D95 Round 5 Day 95 May 1 2023 
 
 **Today's Progress**:
 ANKI + Algo reviews
-Chingu Voyage 44 start
+Chingu Voyage 44 PO work 
 GitHub Issues regarding GitFlow process
 MVP Epic with User Stories
 Research on similar game design like Candy Crush
