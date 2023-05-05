@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R5D98 Round 5 Day 98 May 4 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+Vercel learning 
+Pair programming (2 hours)
+GitHub Issues
+
 ## R5D97 Round 5 Day 97 May 3 2023 
 
 **Today's Progress**:
