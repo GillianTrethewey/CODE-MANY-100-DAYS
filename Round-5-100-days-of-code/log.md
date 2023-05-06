@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R5D100 Round 5 Day 100 May 6 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+React course
+Jest course
+Recursion algo
+
 ## R5D99 Round 5 Day 99 May 5 2023 
 
 **Today's Progress**:
