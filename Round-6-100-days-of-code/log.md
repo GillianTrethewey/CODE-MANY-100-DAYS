@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R6D2 Round 6 Day 2 May 8 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+React course
+Jest course
+Recursion algo
+
 ## R6D1 Round 6 Day 1 May 7 2023 
 
 **Today's Progress**:
