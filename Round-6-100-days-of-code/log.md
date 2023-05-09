@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R6D3 Round 6 Day 3 May 9 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+React course
+Jest course
+OOP exercises
+
 ## R6D2 Round 6 Day 2 May 8 2023 
 
 **Today's Progress**:
