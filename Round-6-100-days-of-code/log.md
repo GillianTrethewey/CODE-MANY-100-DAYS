@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R6D4 Round 6 Day 4 May 10 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+React course - lesson 41 finished (out of 500)
+Jest course
+OOP exercises
+
 ## R6D3 Round 6 Day 3 May 9 2023 
 
 **Today's Progress**:
