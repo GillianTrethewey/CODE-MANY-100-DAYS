@@ -2,7 +2,7 @@
 
 ## Daily Log
 
-## R6D7 Round 6 Day 7 May 13 2023 
+## R6D8 Round 6 Day 8 May 14 2023 
 
 **Today's Progress**:
 ANKI + Algo reviews
