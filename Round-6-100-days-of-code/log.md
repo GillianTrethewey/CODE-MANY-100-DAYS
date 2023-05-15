@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R6D9 Round 6 Day 9 May 15 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+React course
+Java
+OOP exercises
+
 ## R6D8 Round 6 Day 8 May 14 2023 
 
 **Today's Progress**:
