@@ -2,6 +2,15 @@
 
 ## Daily Log
 
+## R6D10 Round 6 Day 10 May 16 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+React course
+Java
+C#
+OOP exercises
+
 ## R6D9 Round 6 Day 9 May 15 2023 
 
 **Today's Progress**:
