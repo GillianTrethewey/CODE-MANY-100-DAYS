@@ -7,6 +7,7 @@
 **Today's Progress**:
 ANKI + Algo reviews
 React
+C#
 
 ## R6D11 Round 6 Day 11 May 17 2023 
 
