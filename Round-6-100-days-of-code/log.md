@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R6D11 Round 6 Day 11 May 17 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+New Kadence WordPress Framework installed
+on Cognitive Results
+
 ## R6D10 Round 6 Day 10 May 16 2023 
 
 **Today's Progress**:
