@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R6D17 Round 6 Day 17 May 23 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+React
+OOP exercises
+
 ## R6D16 Round 6 Day 16 May 22 2023 
 
 **Today's Progress**:
