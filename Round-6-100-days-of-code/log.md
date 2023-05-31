@@ -2,6 +2,12 @@
 
 ## Daily Log
 
+## R6D24 Round 6 Day 24 May 30 2023 
+
+**Today's Progress**:
+ANKI + Algo reviews
+Async Exercises
+
 ## R6D23 Round 6 Day 23 May 29 2023 
 
 **Today's Progress**:
