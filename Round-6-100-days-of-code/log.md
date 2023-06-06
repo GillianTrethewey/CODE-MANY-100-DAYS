@@ -2,7 +2,7 @@
 
 ## Daily Log
 
-## R6D30 Round 6 Day 30 June 5 2023 
+## R6D31 Round 6 Day 31 June 5 2023 
 
 **Today's Progress**:
 ANKI + Algo reviews
