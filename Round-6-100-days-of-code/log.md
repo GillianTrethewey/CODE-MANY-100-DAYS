@@ -2,6 +2,12 @@
 
 ## Daily Log
 
+## R6D32 Round 6 Day 33 November 11 2023 
+
+**Today's Progress**:
+Moved to Victoria, BC and waited for a house to be built.
+Ready to code again - started reviewing HTML & CSS finer points through ANKI flashcards and Shay Howe advanced.
+
 ## R6D32 Round 6 Day 32 June 6 2023 
 
 **Today's Progress**:
