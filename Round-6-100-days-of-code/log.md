@@ -2,7 +2,16 @@
 
 ## Daily Log
 
-## R6D32 Round 6 Day 33 November 11 2023 
+## R6D34 Round 6 Day 34 November 12 2023 
+
+**Today's Progress**:
+ANKI HTML & CSS review
+Shay Howe review
+CSS Flexbox review
+Terminal review
+Git review
+
+## R6D33 Round 6 Day 33 November 11 2023 
 
 **Today's Progress**:
 Moved to Victoria, BC and waited for a house to be built.
