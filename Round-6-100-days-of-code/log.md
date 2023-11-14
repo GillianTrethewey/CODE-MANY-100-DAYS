@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R6D36 Round 6 Day 36 November 14 2023 
+
+**Today's Progress**:
+ANKI HTML & CSS review
+ANKI JavaScript review
+Shay Howe review
+
 ## R6D35 Round 6 Day 35 November 13 2023 
 
 **Today's Progress**:
