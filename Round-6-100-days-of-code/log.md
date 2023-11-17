@@ -2,7 +2,14 @@
 
 ## Daily Log
 
-## R6D37 Round 6 Day 37 November 14 2023 
+## R6D38 Round 6 Day 38 November 16 2023 
+
+**Today's Progress**:
+ANKI HTML & CSS review
+ANKI JavaScript review
+Java
+
+## R6D37 Round 6 Day 37 November 15 2023 
 
 **Today's Progress**:
 ANKI HTML & CSS review
