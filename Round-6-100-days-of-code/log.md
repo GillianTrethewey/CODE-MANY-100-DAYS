@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R6D39 Round 6 Day 39 November 17 2023 
+
+**Today's Progress**:
+ANKI HTML & CSS review
+ANKI JavaScript review
+review destructuring, export methods
+Java
+
 ## R6D38 Round 6 Day 38 November 16 2023 
 
 **Today's Progress**:
