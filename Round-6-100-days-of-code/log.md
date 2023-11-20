@@ -2,7 +2,15 @@
 
 ## Daily Log
 
-## R6D39 Round 6 Day 41 November 19 2023 
+## R6D42 Round 6 Day 42 November 20 2023 
+
+**Today's Progress**:
+ANKI HTML & CSS review
+ANKI JavaScript review
+review OOP
+Java
+
+## R6D41 Round 6 Day 41 November 19 2023 
 
 **Today's Progress**:
 ANKI HTML & CSS review
