@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R6D47 Round 6 Day 47 November 25 2023 
+
+**Today's Progress**:
+ANKI JavaScript review
+ANKI HTTP review
+Java
+
 ## R6D46 Round 6 Day 46 November 24 2023 
 
 **Today's Progress**:
