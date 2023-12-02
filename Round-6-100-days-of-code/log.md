@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R6D53 Round 6 Day 53 December 1 2023 
+
+**Today's Progress**:
+ANKI Review - JS, CSS, HTTP
+Java
+BrainStation HTML/CSS + JS mini courses
+
 ## R6D52 Round 6 Day 52 November 30 2023 
 
 **Today's Progress**:
