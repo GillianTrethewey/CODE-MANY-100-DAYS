@@ -2,6 +2,12 @@
 
 ## Daily Log
 
+## R6D54 Round 6 Day 54 December 2 2023 
+
+**Today's Progress**:
+ANKI Review - JS, CSS, HTTP
+Advent of Code
+
 ## R6D53 Round 6 Day 53 December 1 2023 
 
 **Today's Progress**:
