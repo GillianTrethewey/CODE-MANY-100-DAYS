@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R6D58 Round 6 Day 58 December 6 2023 
+
+**Today's Progress**:
+ANKI Review - JS, CSS, HTTP
+Advent of Code
+Java
+Day 2 BrainStation
+
 ## R6D57 Round 6 Day 57 December 5 2023 
 
 **Today's Progress**:
