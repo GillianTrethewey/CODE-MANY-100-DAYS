@@ -3,6 +3,14 @@
 ## Daily Log
 
 
+## R6D62 Round 6 Day 62 December 10 2023 
+
+**Today's Progress**:
+ANKI Review - JS, CSS, HTTP
+Java
+Week 1 BrainStation complete
+Coffee Shop ready for submission
+
 ## R6D61 Round 6 Day 61 December 9 2023 
 
 **Today's Progress**:
