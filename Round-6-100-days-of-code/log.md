@@ -3,6 +3,13 @@
 ## Daily Log
 
 
+## R6D63 Round 6 Day 63 December 11 2023 
+
+**Today's Progress**:
+ANKI Review - JS, CSS, HTTP, promises
+Java
+Week 2 Day 1 Brainstation
+
 ## R6D62 Round 6 Day 62 December 10 2023 
 
 **Today's Progress**:
