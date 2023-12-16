@@ -2,14 +2,21 @@
 
 ## Daily Log
 
-## R6D66 Round 6 Day 66 December 12 2023 
+## R6D67 Round 6 Day 67 December 15 2023 
+
+**Today's Progress**:
+ANKI Review - JS, CSS, HTTP, promises
+Travel Site static HTML Sass submitted
+Week 2 Day 5 Brainstation
+
+## R6D66 Round 6 Day 66 December 14 2023 
 
 **Today's Progress**:
 ANKI Review - JS, CSS, HTTP, promises
 Coffee Shop 2 SASS conversion submitted
 Week 2 Day 4 Brainstation
 
-## R6D65 Round 6 Day 65 December 12 2023 
+## R6D65 Round 6 Day 65 December 13 2023 
 
 **Today's Progress**:
 ANKI Review - JS, CSS, HTTP, promises
@@ -22,7 +29,6 @@ Week 2 Day 3 Brainstation
 ANKI Review - JS, CSS, HTTP, promises
 Java
 Week 2 Day 2 Brainstation
-
 
 ## R6D63 Round 6 Day 63 December 11 2023 
 
