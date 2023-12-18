@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R6D69 Round 6 Day 69 December 17 2023 
+
+**Today's Progress**:
+ANKI Review
+Java
+Week 2 Brainstation complete
+
 ## R6D68 Round 6 Day 68 December 16 2023 
 
 **Today's Progress**:
