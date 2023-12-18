@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R6D70 Round 6 Day 70 December 18 2023 
+
+**Today's Progress**:
+ANKI Review
+Research Capstone project ideas
+Week 3 Day 1 Brainstation
+
 ## R6D69 Round 6 Day 69 December 17 2023 
 
 **Today's Progress**:
