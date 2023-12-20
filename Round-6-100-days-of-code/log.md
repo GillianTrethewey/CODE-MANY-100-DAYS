@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R6D71 Round 6 Day 71 December 19 2023 
+
+**Today's Progress**:
+ANKI Review
+Work on Band Site due Dec 24
+Week 3 Day 2 Brainstation
+
 ## R6D70 Round 6 Day 70 December 18 2023 
 
 **Today's Progress**:
