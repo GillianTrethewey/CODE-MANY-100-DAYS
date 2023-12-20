@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+
+## R6D72 Round 6 Day 72 December 20 2023 
+
+**Today's Progress**:
+ANKI Review
+Week 3 Day 3 Brainstation
+
 ## R6D71 Round 6 Day 71 December 19 2023 
 
 **Today's Progress**:
