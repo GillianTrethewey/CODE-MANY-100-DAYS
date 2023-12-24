@@ -3,6 +3,13 @@
 ## Daily Log
 
 
+## R6D75 Round 6 Day 75 December 23 2023 
+
+**Today's Progress**:
+ANKI Review
+Worked on Band Site Mobile
+Week 3 Brainstation complete
+
 ## R6D74 Round 6 Day 74 December 22 2023 
 
 **Today's Progress**:
