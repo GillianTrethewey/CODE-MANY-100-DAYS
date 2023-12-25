@@ -3,11 +3,10 @@
 ## Daily Log
 
 
-## R6D76 Round 6 Day 76 December 24 2023 
+## R6D76 Round 6 Day 76 December 25 2023 
 
 **Today's Progress**:
 ANKI Review
-Band Site Project submitted
 Week 3 Brainstation complete
 
 ## R6D75 Round 6 Day 75 December 23 2023 
