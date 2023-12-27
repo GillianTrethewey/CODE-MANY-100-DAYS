@@ -3,6 +3,13 @@
 ## Daily Log
 
 
+## R6D77 Round 6 Day 77 December 26 2023 
+
+**Today's Progress**:
+ANKI Review
+Research Capstone project
+Week 3 Brainstation complete
+
 ## R6D76 Round 6 Day 76 December 25 2023 
 
 **Today's Progress**:
