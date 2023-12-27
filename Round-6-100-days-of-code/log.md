@@ -3,17 +3,32 @@
 ## Daily Log
 
 
-## R6D77 Round 6 Day 77 December 26 2023 
+## R6D79 Round 6 Day 79 December 27 2023 
+
+**Today's Progress**:
+ANKI Review
+Research Backend
+Brainstation break
+
+## R6D78 Round 6 Day 78 December 26 2023 
 
 **Today's Progress**:
 ANKI Review
 Research Capstone project
-Week 3 Brainstation complete
+Brainstation break
 
-## R6D76 Round 6 Day 76 December 25 2023 
+## R6D77 Round 6 Day 77 December 25 2023 
 
 **Today's Progress**:
 ANKI Review
+Submitted Band Site Mobile
+Brainstation break
+
+## R6D76 Round 6 Day 76 December 24 2023 
+
+**Today's Progress**:
+ANKI Review
+Worked on Band Site Mobile
 Week 3 Brainstation complete
 
 ## R6D75 Round 6 Day 75 December 23 2023 
