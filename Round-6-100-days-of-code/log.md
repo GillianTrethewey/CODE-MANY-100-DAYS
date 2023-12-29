@@ -3,6 +3,13 @@
 ## Daily Log
 
 
+## R6D80 Round 6 Day 80 December 28 2023 
+
+**Today's Progress**:
+ANKI Review
+Research MERN Stack for Capstone
+Brainstation break
+
 ## R6D79 Round 6 Day 79 December 27 2023 
 
 **Today's Progress**:
