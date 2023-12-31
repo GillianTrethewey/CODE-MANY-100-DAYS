@@ -3,6 +3,13 @@
 ## Daily Log
 
 
+## R6D82 Round 6 Day 82 December 30 2023 
+
+**Today's Progress**:
+ANKI Review
+MERN tutorial
+Brainstation break
+
 ## R6D81 Round 6 Day 81 December 29 2023 
 
 **Today's Progress**:
