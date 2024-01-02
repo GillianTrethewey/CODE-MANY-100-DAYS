@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R6D85 Round 6 Day 85 January 2 2023 
+
+**Today's Progress**:
+- ANKI Review
+- MERN tutorial
+- Week 4 Day 1 Brainstation 
+
 ## R6D84 Round 6 Day 84 January 1 2023 
 
 **Today's Progress**:
