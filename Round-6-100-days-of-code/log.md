@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R6D87 Round 6 Day 87 January 4 2023 
+
+**Today's Progress**:
+- ANKI Review
+- Bandsite Sprint-2
+- Week 4 Day 3 Brainstation 
+
 ## R6D86 Round 6 Day 86 January 3 2023 
 
 **Today's Progress**:
