@@ -2,21 +2,28 @@
 
 ## Daily Log
 
-## R6D88 Round 6 Day 88 January 5 2023 
+## R6D89 Round 6 Day 89 January 6 2024
+
+**Today's Progress**:
+- ANKI Review
+- Bandsite Sprint-2
+- Week 4 Day 5 Brainstation 
+
+## R6D88 Round 6 Day 88 January 5 2024 
 
 **Today's Progress**:
 - ANKI Review
 - Bandsite Sprint-2
 - Week 4 Day 4 Brainstation 
 
-## R6D87 Round 6 Day 87 January 4 2023 
+## R6D87 Round 6 Day 87 January 4 2024 
 
 **Today's Progress**:
 - ANKI Review
 - Bandsite Sprint-2
 - Week 4 Day 3 Brainstation 
 
-## R6D86 Round 6 Day 86 January 3 2023 
+## R6D86 Round 6 Day 86 January 3 2024 
 
 **Today's Progress**:
 - ANKI Review
@@ -30,7 +37,7 @@
 - MERN tutorial
 - Week 4 Day 1 Brainstation 
 
-## R6D84 Round 6 Day 84 January 1 2023 
+## R6D84 Round 6 Day 84 January 1 2024 
 
 **Today's Progress**:
 - ANKI Review
