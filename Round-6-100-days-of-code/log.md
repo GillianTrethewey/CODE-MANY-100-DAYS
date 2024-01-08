@@ -2,12 +2,19 @@
 
 ## Daily Log
 
+## R6D90 Round 6 Day 90 January 7 2024
+
+**Today's Progress**:
+- ANKI Review
+- Bandsite Sprint-2 Submitted
+- Brainstation break
+
 ## R6D89 Round 6 Day 89 January 6 2024
 
 **Today's Progress**:
 - ANKI Review
 - Bandsite Sprint-2
-- Week 4 Day 5 Brainstation 
+- Brainstation week 4 complete
 
 ## R6D88 Round 6 Day 88 January 5 2024 
 
