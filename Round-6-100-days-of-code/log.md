@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R6D92 Round 6 Day 92 January 9 2024
+
+**Today's Progress**:
+- ANKI Review
+- Bandsite Sprint-3 started
+- Week 5 Day 2 Brainstation 
+
 ## R6D91 Round 6 Day 91 January 8 2024
 
 **Today's Progress**:
