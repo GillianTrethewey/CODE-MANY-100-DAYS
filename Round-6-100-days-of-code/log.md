@@ -9,6 +9,13 @@
 - Bandsite Sprint-3 API work
 - Week 5 Day 3 Brainstation 
 
+## R6D94 Round 6 Day 94 January 11 2024
+
+**Today's Progress**:
+- ANKI Review
+- Bandsite Sprint-3 fine-tuning
+- Week 5 Day 4 Brainstation 
+
 ## R6D93 Round 6 Day 93 January 10 2024
 
 **Today's Progress**:
