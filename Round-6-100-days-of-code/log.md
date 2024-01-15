@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+## R6D98 Round 6 Day 98 January 15 2024
+
+**Today's Progress**:
+- ANKI Review
+- BrainFlix started
+- Pokemon refactor finished
+- Week 6 Day 1 Brainstation
+
 ## R6D97 Round 6 Day 97 January 14 2024
 
 **Today's Progress**:
