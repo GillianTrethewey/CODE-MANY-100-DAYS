@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R6D99 Round 6 Day 99 January 16 2024
+
+**Today's Progress**:
+- ANKI Review
+- BrainFlix started
+- Week 6 Day 2 Brainstation
+
 ## R6D98 Round 6 Day 98 January 15 2024
 
 **Today's Progress**:
