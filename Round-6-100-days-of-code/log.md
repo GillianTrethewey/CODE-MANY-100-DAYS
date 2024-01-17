@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+## R6D100 Round 6 Day 100 January 17 2024
+
+**Today's Progress**:
+- ANKI Review
+- BrainFlix Sprint-1
+- Week 6 Day 3 Brainstation
+
 ## R6D99 Round 6 Day 99 January 16 2024
 
 **Today's Progress**:
