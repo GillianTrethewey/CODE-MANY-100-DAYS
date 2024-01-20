@@ -9,14 +9,14 @@
 - BrainFlix Sprint-1
 - Week 6 Brainstation complete
 
-# R6D100 Round 7 Day 2 January 19 2024
+### R6D100 Round 7 Day 2 January 19 2024
 
 **Today's Progress**:
 - ANKI Review
 - BrainFlix Sprint-1
 - Week 6 Day 5 Brainstation
 
-
+### R6D100 Round 7 Day 1 January 18 2024
 
 **Today's Progress**:
 - ANKI Review
