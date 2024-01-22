@@ -2,21 +2,28 @@
 
 ## Daily Log
 
-### R6D100 Round 7 Day 3 January 20 2024
+### R6D4 Round 7 Day 4 January 21 2024
+
+**Today's Progress**:
+- ANKI Review
+- BrainFlix Sprint-1
+- Started Next.js, TypeScript, Tailwind project using API
+
+### R6D3 Round 7 Day 3 January 20 2024
 
 **Today's Progress**:
 - ANKI Review
 - BrainFlix Sprint-1
 - Week 6 Brainstation complete
 
-### R6D100 Round 7 Day 2 January 19 2024
+### R6D2 Round 7 Day 2 January 19 2024
 
 **Today's Progress**:
 - ANKI Review
 - BrainFlix Sprint-1
 - Week 6 Day 5 Brainstation
 
-### R6D100 Round 7 Day 1 January 18 2024
+### R6D1 Round 7 Day 1 January 18 2024
 
 **Today's Progress**:
 - ANKI Review
