@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+### R6D6 Round 7 Day 6 January 22 2024
+
+**Today's Progress**:
+- ANKI Review
+- BrainFlix Sprint-2 almost complete
+- Week 7 Day 2 Brainstation
+
 ### R6D5 Round 7 Day 5 January 21 2024
 
 **Today's Progress**:
