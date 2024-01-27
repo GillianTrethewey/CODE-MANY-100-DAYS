@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+### R6D10 Round 7 Day 10 January 26 2024
+
+**Today's Progress**:
+- ANKI Review
+- BrainFlix Sprint-2
+- Next.js video learning
+- Week 7 Day 5 Brainstation
+
 ### R6D9 Round 7 Day 9 January 25 2024
 
 **Today's Progress**:
