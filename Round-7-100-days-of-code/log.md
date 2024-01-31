@@ -2,13 +2,21 @@
 
 ## Daily Log
 
+### R7D14 Round 7 Day 14 January 30 2024
+
+**Today's Progress**:
+- ANKI Review
+- BrainFlix Sprint-3 
+- Next.js video learning
+- Week 8 Day 2 Brainstation
+
 ### R7D13 Round 7 Day 13 January 29 2024
 
 **Today's Progress**:
 - ANKI Review
 - BrainFlix Sprint-3 
 - Next.js video learning
-- Week 8 Dat 1 Brainstation
+- Week 8 Day 1 Brainstation
 
 ### R7D11/12 Round 7 Day 11/12 January 27/28 2024
 
