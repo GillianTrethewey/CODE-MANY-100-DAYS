@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+### R7D15 Round 7 Day 15 January 31 2024
+
+**Today's Progress**:
+- ANKI Review
+- BrainFlix Sprint-3 
+- HounddogAI take-home submitted (Next/TypeScript/Tailwind/SWR)
+- Week 8 Day 3 Brainstation
+
 ### R7D14 Round 7 Day 14 January 30 2024
 
 **Today's Progress**:
