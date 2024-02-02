@@ -2,6 +2,14 @@
 
 ## Daily Log
 
+### R7D16 Round 7 Day 16 February 1 2024
+
+**Today's Progress**:
+- ANKI Review
+- BrainFlix Sprint-3 
+- 24 Hour Hackathon fullstack
+- Week 8 Day 4 Brainstation
+
 ### R7D15 Round 7 Day 15 January 31 2024
 
 **Today's Progress**:
