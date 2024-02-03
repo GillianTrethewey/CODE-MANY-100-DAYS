@@ -2,6 +2,12 @@
 
 ## Daily Log
 
+### R7D17 Round 7 Day 17 February 2 2024
+
+**Today's Progress**:
+- BrainFlix Sprint-3 submitted
+- Week 8 Day 5 Brainstation
+
 ### R7D16 Round 7 Day 16 February 1 2024
 
 **Today's Progress**:
