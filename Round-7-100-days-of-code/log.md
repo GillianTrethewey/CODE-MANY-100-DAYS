@@ -2,6 +2,12 @@
 
 ## Daily Log
 
+### R7D18 Round 7 Day 18 February 3 2024
+
+**Today's Progress**:
+- MySQL review
+- Week 8 Brainstation completed
+
 ### R7D17 Round 7 Day 17 February 2 2024
 
 **Today's Progress**:
