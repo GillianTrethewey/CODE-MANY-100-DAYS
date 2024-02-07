@@ -2,17 +2,17 @@
 
 ## Daily Log
 
-### R7D21 Round 7 Day 21 February 4 2024
+### R7D21 Round 7 Day 21 February 6 2024
 
 **Today's Progress**:
-- InStock Agile Team Project started
-- Week 9 Day 1 Brainstation
+- InStock Agile Team Project
+- Week 9 Day 2 Brainstation
 
-### R7D20 Round 7 Day 20 February 3 2024
+### R7D20 Round 7 Day 20 February 5 2024
 
 **Today's Progress**:
 - MySQL review
-- Week 8 Brainstation completed
+- Week 9 Day 1 Brainstation
 
 ### R7D19 Round 7 Day 19 February 4 2024
 
