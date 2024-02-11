@@ -2,6 +2,17 @@
 
 ## Daily Log
 
+### R7D26 Round 7 Day 26 February 11 2024
+
+**Today's Progress**:
+- InStock Agile Team Project
+
+
+### R7D25 Round 7 Day 25 February 10 2024
+
+**Today's Progress**:
+- InStock Agile Team Project
+- Week 9 Brainstation Complete
 
 ### R7D24 Round 7 Day 24 February 9 2024
 
