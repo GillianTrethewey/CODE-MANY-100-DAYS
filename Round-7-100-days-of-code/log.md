@@ -2,6 +2,11 @@
 
 ## Daily Log
 
+### R7D27 Round 7 Day 27 February 12 2024
+
+**Today's Progress**:
+- Capstone start
+
 ### R7D26 Round 7 Day 26 February 11 2024
 
 **Today's Progress**:
