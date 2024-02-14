@@ -2,6 +2,10 @@
 
 ## Daily Log
 
+### R7D29 Round 7 Day 29 February 14 2024
+
+- Capstone
+
 ### R7D28 Round 7 Day 28 February 13 2024
 
 - Capstone
