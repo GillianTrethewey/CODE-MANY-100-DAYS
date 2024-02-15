@@ -2,6 +2,10 @@
 
 ## Daily Log
 
+### R7D30 Round 7 Day 30 February 15 2024
+
+- Capstone using Flutter and Firebase
+
 ### R7D29 Round 7 Day 29 February 14 2024
 
 - Capstone
