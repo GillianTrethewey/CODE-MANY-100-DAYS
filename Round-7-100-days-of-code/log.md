@@ -2,9 +2,18 @@
 
 ## Daily Log
 
+### R7D31 Round 7 Day 31 March 9 2024
+
+- Java - review and building out a small app
+- Project Management App - finish Trello board
+- map out learning for rest of March
+- Java, Jest, 2 apps, WP Gutenberg blocks, WP Plugins
+- April - Ruby, Rails, Advanced React course
+
 ### R7D30 Round 7 Day 30 February 15 2024
 
-- Capstone using Flutter and Firebase
+- Capstone 
+- Brainstation finished
 
 ### R7D29 Round 7 Day 29 February 14 2024
 
