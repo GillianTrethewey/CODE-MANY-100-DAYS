@@ -2,6 +2,12 @@
 
 ## Daily Log
 
+### R7D32 Round 7 Day 32 March 10 2024
+
+- LeetCode (Java, JS, Python)
+- Trello board finish
+- Deep thought re: design skills? Do I need to learn them to be competitive.
+
 ### R7D31 Round 7 Day 31 March 9 2024
 
 - Java - review and building out a small app
