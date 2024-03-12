@@ -2,6 +2,11 @@
 
 ## Daily Log
 
+### R7D33 Round 7 Day 33 March 11 2024
+
+- LeetCode
+- PHP Exercism in prep for WP plugin course
+
 ### R7D32 Round 7 Day 32 March 10 2024
 
 - LeetCode (Java, JS, Python)
