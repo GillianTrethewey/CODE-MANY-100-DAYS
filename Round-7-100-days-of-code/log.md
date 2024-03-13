@@ -2,11 +2,7 @@
 
 ## Daily Log
 
-### R7D35 Round 7 Day 35 March 13 2024
 
-- PHP Annalyns Infiltration in Exercism (booleans)
-- Set up Project Management app - set up FE/BE
-- LeetCode (JS, Java)
 
 ### R7D34 Round 7 Day 34 March 12 2024
 
