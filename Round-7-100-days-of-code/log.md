@@ -2,6 +2,11 @@
 
 ## Daily Log
 
+### R7D37 Round 7 Day 37 March 15 2024
+
+- more research on freelance WP biz for tools
+- research on Vue and Laravel stack for possible FS job
+
 ### R7D36 Round 7 Day 36 March 14 2024
 
 - Seminar by a Project Owner at Moody's
