@@ -2,6 +2,12 @@
 
 ## Daily Log
 
+### R7D38 Round 7 Day 38 March 16 2024
+
+- continue with Project Management app
+- LeetCode (JS, Java)
+- PHP Annalyns Infiltration in Exercism (booleans)
+
 ### R7D37 Round 7 Day 37 March 15 2024
 
 - more research on freelance WP biz for tools
@@ -14,7 +20,6 @@
 
 ### R7D35 Round 7 Day 35 March 13 2024
 
-- PHP Annalyns Infiltration in Exercism (booleans)
 - Set up Project Management app - set up FE/BE
 - LeetCode (JS, Java)
 
