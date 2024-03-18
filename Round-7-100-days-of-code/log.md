@@ -2,6 +2,11 @@
 
 ## Daily Log
 
+### R7D39 Round 7 Day 39 March 17 2024
+
+- continue with PM app
+- research re: WordPress current blocks/bricks
+
 ### R7D38 Round 7 Day 38 March 16 2024
 
 - continue with Project Management app
