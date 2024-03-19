@@ -2,6 +2,10 @@
 
 ## Daily Log
 
+### R7D41 Round 7 Day 41 March 19 2024
+
+- continue with PM app
+
 ### R7D40 Round 7 Day 40 March 18 2024
 
 - continue with PM app
