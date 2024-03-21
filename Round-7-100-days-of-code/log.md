@@ -2,6 +2,10 @@
 
 ## Daily Log
 
+### R7D43 Round 7 Day 43 March 21 2024
+
+- continue with PM app
+
 ### R7D42 Round 7 Day 42 March 20 2024
 
 - continue with PM app
