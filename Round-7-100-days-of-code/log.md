@@ -2,9 +2,15 @@
 
 ## Daily Log
 
+### R7D45 Round 7 Day 45 March 23 2024
+
+- continue with PM app
+- notes on UX and UI course
+
 ### R7D44 Round 7 Day 44 March 22 2024
 
 - continue with PM app
+- notes on UX Research and UI Design
 
 ### R7D43 Round 7 Day 43 March 21 2024
 
