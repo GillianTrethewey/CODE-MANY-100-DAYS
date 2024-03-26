@@ -2,6 +2,11 @@
 
 ## Daily Log
 
+### R7D48 Round 7 Day 48 March 26 2024
+
+- continue with PM app
+- notes on UX and UI course
+
 ### R7D47 Round 7 Day 47 March 25 2024
 
 - continue with PM app
