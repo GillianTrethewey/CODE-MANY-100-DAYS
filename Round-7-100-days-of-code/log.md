@@ -2,6 +2,12 @@
 
 ## Daily Log
 
+### R7D47 Round 7 Day 47 March 25 2024
+
+- continue with PM app
+- notes on UX and UI course
+- cleaned up BrainFlix and BandSite repos with complete README.md files
+
 ### R7D46 Round 7 Day 46 March 24 2024
 
 - continue with PM app
