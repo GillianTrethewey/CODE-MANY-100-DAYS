@@ -2,6 +2,13 @@
 
 ## Daily Log
 
+### R7D49 Round 7 Day 49 March 26 2024
+
+- continue with PM app
+- notes on UX and UI course
+- completed Code Tracker CRUD repo with complete README.md (coded frontend and created update and delete routes)
+- organized outstanding projects and planned them out
+
 ### R7D48 Round 7 Day 48 March 26 2024
 
 - continue with PM app
