@@ -2,12 +2,17 @@
 
 ## Daily Log
 
-### R7D50 Round 7 Day 50 March 27 2024
+### R7D51 Round 7 Day 51 March 29 2024
 
 - continue with PM app
 - notes on UX and UI course
 
-### R7D49 Round 7 Day 49 March 26 2024
+### R7D50 Round 7 Day 50 March 28 2024
+
+- continue with PM app
+- notes on UX and UI course
+
+### R7D49 Round 7 Day 49 March 27 2024
 
 - continue with PM app
 - notes on UX and UI course
