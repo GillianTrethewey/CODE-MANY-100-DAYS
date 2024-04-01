@@ -2,6 +2,12 @@
 
 ## Daily Log
 
+### R7D53 Round 7 Day 53 March 31 2024
+
+- continue with PM app
+- notes on UX and UI course
+- March end organization and planning for April
+
 ### R7D52 Round 7 Day 52 March 30 2024
 
 - continue with PM app
