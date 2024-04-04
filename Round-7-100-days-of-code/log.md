@@ -2,6 +2,12 @@
 
 ## Daily Log
 
+### R7D57 Round 7 Day 57 April 04 2024
+
+- continue with PM app
+- notes on UX and UI course
+- lesson 5 Perpetual Education
+
 ### R7D56 Round 7 Day 56 April 03 2024
 
 - continue with PM app
