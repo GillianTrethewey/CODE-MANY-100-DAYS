@@ -2,6 +2,12 @@
 
 ## Daily Log
 
+### R7D61 Round 7 Day 61 April 08 2024
+
+- continue with PM app
+- notes on UX and UI course
+- lesson 9 Perpetual Education
+
 ### R7D60 Round 7 Day 60 April 07 2024
 
 - continue with PM app
