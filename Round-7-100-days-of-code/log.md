@@ -2,54 +2,50 @@
 
 ## Daily Log
 
+### R7D62 Round 7 Day 62 April 09 2024
+
+- continue with PM app
+- notes on UX and UI course
+
 ### R7D61 Round 7 Day 61 April 08 2024
 
 - continue with PM app
 - notes on UX and UI course
-- lesson 9 Perpetual Education
 
 ### R7D60 Round 7 Day 60 April 07 2024
 
 - continue with PM app
 - notes on UX and UI course
-- lesson 8 Perpetual Education
 
 ### R7D59 Round 7 Day 59 April 06 2024
 
 - continue with PM app
 - notes on UX and UI course
-- lesson 7 Perpetual Education
 
 ### R7D58 Round 7 Day 58 April 05 2024
 
 - continue with PM app
 - notes on UX and UI course
-- lesson 6 Perpetual Education
 
 ### R7D57 Round 7 Day 57 April 04 2024
 
 - continue with PM app
 - notes on UX and UI course
-- lesson 5 Perpetual Education
 
 ### R7D56 Round 7 Day 56 April 03 2024
 
 - continue with PM app
 - notes on UX and UI course
-- lesson 4 Perpetual Education
 
 ### R7D55 Round 7 Day 55 April 02 2024
 
 - continue with PM app
 - notes on UX and UI course
-- lesson 2 Perpetual Education
-- lesson 3 Perpetual Education
 
 ### R7D54 Round 7 Day 54 April 01 2024
 
 - continue with PM app
 - notes on UX and UI course
-- lesson 1 Perpetual Education
 
 ### R7D53 Round 7 Day 53 March 31 2024
 
