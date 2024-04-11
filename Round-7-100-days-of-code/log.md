@@ -2,6 +2,11 @@
 
 ## Daily Log
 
+### R7D64 Round 7 Day 64 April 11 2024
+
+- continue with PM app
+- notes on UX and UI course
+
 ### R7D63 Round 7 Day 63 April 10 2024
 
 - continue with PM app
