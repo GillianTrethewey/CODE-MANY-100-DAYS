@@ -2,6 +2,10 @@
 
 ## Daily Log
 
+### R7D65 Round 7 Day 65 April 12 2024
+
+ - WordPress course
+
 ### R7D64 Round 7 Day 64 April 11 2024
 
 - continue with PM app
