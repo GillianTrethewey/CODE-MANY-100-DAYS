@@ -2,9 +2,13 @@
 
 ## Daily Log
 
+### R7D66 Round 7 Day 66 July 21 2024
+
+- Java course with Coders Campus (free)
+
 ### R7D65 Round 7 Day 65 April 12 2024
 
- - WordPress course
+- WordPress course
 
 ### R7D64 Round 7 Day 64 April 11 2024
 
